@@ -1,2 +1,2 @@
 # stonks
-Communication with TradingView API and bot implementation
+Communication with Binance API and bot implementation
