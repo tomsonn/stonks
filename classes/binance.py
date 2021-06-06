@@ -1,7 +1,10 @@
 import os
+import requests
+import sys
 
 from binance.client import Client
 from datetime import datetime
+from classes.exceptions import NotEnoughArguments
 
 
 class Binance:
@@ -9,6 +12,8 @@ class Binance:
     def __init__(self):
         self.API_KEY = os.environ['BINANCE_API_KEY']
         self.API_SECRET = os.environ['BINANCE_API_SECRET']
+
+        self.BASE_URL = 'https://api.binance.com'
 
         # Instance of Binance client
         self.client = Client(self.API_KEY, self.API_SECRET)
@@ -21,7 +26,7 @@ class Binance:
         self.coins_info = self.client.get_all_tickers()
         self.coins_file_path = 'data/coin_pairs.txt'
 
-    def get_coin_pairs(self, base_currency='USDT'):
+    def get_coin_pairs(self, base_currency: str = 'USDT') -> list:
         """Get all coin pairs for desired base currency"""
 
         if not self.is_file_updated(self.coins_file_path, 24):
@@ -40,8 +45,38 @@ class Binance:
 
             return [line.strip() for line in lines]
 
+    def get_candlestick_data(self, **params):
+        """
+            Return candlestick data as dict.
+            If start_time and end_time are not passed as arguments, most recent candlestick is returned.
+        """
+
+        url = self.BASE_URL + '/api/v3/klines'
+
+        if not params.get('symbol') or not params.get('interval'):
+            err_msg = 'Both symbol and interval parameters have to be passed to method.'
+            raise NotEnoughArguments(err_msg)
+
+        res = requests.get(url, params=params)
+        try:
+            res.raise_for_status()
+            data_row = res.json()
+        except Exception as e:
+            print(f'Some exception was caught while making request to url: {url}')
+            print(f'Exception - {e}')
+            sys.exit(1)
+
+        return [{
+            'time_open': datetime.fromtimestamp(candlestick[0] / 1000).strftime('%Y-%m-%d %H:%M'),
+            'time_close': datetime.fromtimestamp(candlestick[6] / 1000).strftime('%Y-%m-%d %H:%M'),
+            'price_open': float(candlestick[1]),
+            'price_high': float(candlestick[2]),
+            'price_low': float(candlestick[3]),
+            'price_close': float(candlestick[4]),
+        } for candlestick in data_row]
+
     @staticmethod
-    def is_file_updated(filename, max_age=24):
+    def is_file_updated(filename, max_age: int = 24) -> bool:
         """
             Return if is older than `max_age` or not.
             We assume, file already exists
