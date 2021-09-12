@@ -75,6 +75,11 @@ class Binance:
             'price_close': float(candlestick[4]),
         } for candlestick in data_row]
 
+    def sync_with_server(self, interval):
+        sleep_time = 10
+
+        return sleep_time
+
     @staticmethod
     def is_file_updated(filename, max_age: int = 24) -> bool:
         """
