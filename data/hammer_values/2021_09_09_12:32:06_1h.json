@@ -1,0 +1,3014 @@
+[
+  {
+    "BTCUSDT": [
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 46160.88,
+        "price_high": 46183.09,
+        "price_low": 45888.38,
+        "price_close": 46131.18
+      }
+    ]
+  },
+  {
+    "ETHUSDT": [
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 3496.99,
+        "price_high": 3502.37,
+        "price_low": 3451.37,
+        "price_close": 3493.04
+      }
+    ]
+  },
+  {
+    "BNBUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 415.1,
+        "price_high": 416.1,
+        "price_low": 411.9,
+        "price_close": 414.9
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 416.0,
+        "price_high": 416.4,
+        "price_low": 412.1,
+        "price_close": 415.3
+      }
+    ]
+  },
+  {
+    "NEOUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 50.85,
+        "price_high": 51.0,
+        "price_low": 50.23,
+        "price_close": 50.88
+      }
+    ]
+  },
+  {
+    "LTCUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 182.8,
+        "price_high": 183.7,
+        "price_low": 180.6,
+        "price_close": 183.3
+      }
+    ]
+  },
+  {
+    "QTUMUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 13.502,
+        "price_high": 13.58,
+        "price_low": 13.225,
+        "price_close": 13.523
+      }
+    ]
+  },
+  {
+    "ADAUSDT": [
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 2.58,
+        "price_high": 2.589,
+        "price_low": 2.531,
+        "price_close": 2.579
+      }
+    ]
+  },
+  {
+    "XRPUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 1.1085,
+        "price_high": 1.1125,
+        "price_low": 1.0985,
+        "price_close": 1.1079
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 1.1079,
+        "price_high": 1.1128,
+        "price_low": 1.0944,
+        "price_close": 1.1101
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 1.1156,
+        "price_high": 1.1179,
+        "price_low": 1.102,
+        "price_close": 1.1131
+      }
+    ]
+  },
+  {
+    "IOTAUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 1.558,
+        "price_high": 1.569,
+        "price_low": 1.5238,
+        "price_close": 1.5622
+      }
+    ]
+  },
+  {
+    "XLMUSDT": [
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.3339,
+        "price_high": 0.3345,
+        "price_low": 0.3314,
+        "price_close": 0.334
+      }
+    ]
+  },
+  {
+    "ONTUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 1.0096,
+        "price_high": 1.0169,
+        "price_low": 0.9942,
+        "price_close": 1.0109
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 1.0121,
+        "price_high": 1.0127,
+        "price_low": 0.9983,
+        "price_close": 1.0072
+      }
+    ]
+  },
+  {
+    "TRXUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.09289,
+        "price_high": 0.09308,
+        "price_low": 0.09178,
+        "price_close": 0.09294
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.09336,
+        "price_high": 0.09336,
+        "price_low": 0.09233,
+        "price_close": 0.09298
+      }
+    ]
+  },
+  {
+    "ETCUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 59.25,
+        "price_high": 59.46,
+        "price_low": 58.53,
+        "price_close": 59.33
+      }
+    ]
+  },
+  {
+    "NULSUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.5343,
+        "price_high": 0.5369,
+        "price_low": 0.527,
+        "price_close": 0.5369
+      }
+    ]
+  },
+  {
+    "VETUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 0.12364,
+        "price_high": 0.12458,
+        "price_low": 0.12144,
+        "price_close": 0.12395
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.12394,
+        "price_high": 0.1247,
+        "price_low": 0.12188,
+        "price_close": 0.12452
+      }
+    ]
+  },
+  {
+    "USDCUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 1.0,
+        "price_high": 1.0,
+        "price_low": 0.9999,
+        "price_close": 1.0
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.9999,
+        "price_high": 0.9999,
+        "price_low": 0.9998,
+        "price_close": 0.9999
+      }
+    ]
+  },
+  {
+    "LINKUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 27.79,
+        "price_high": 28.0,
+        "price_low": 27.31,
+        "price_close": 27.95
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 27.95,
+        "price_high": 28.01,
+        "price_low": 27.51,
+        "price_close": 27.91
+      }
+    ]
+  },
+  {
+    "BTTUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.004112,
+        "price_high": 0.004134,
+        "price_low": 0.004062,
+        "price_close": 0.004127
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.004143,
+        "price_high": 0.004148,
+        "price_low": 0.004098,
+        "price_close": 0.004136
+      }
+    ]
+  },
+  {
+    "ONGUSDT": [
+      {
+        "time_open": "2021-09-09 07:00",
+        "time_close": "2021-09-09 07:59",
+        "price_open": 1.1148,
+        "price_high": 1.1244,
+        "price_low": 1.0991,
+        "price_close": 1.1241
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 1.1391,
+        "price_high": 1.1452,
+        "price_low": 1.1212,
+        "price_close": 1.1393
+      }
+    ]
+  },
+  {
+    "HOTUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 0.010472,
+        "price_high": 0.0105,
+        "price_low": 0.010301,
+        "price_close": 0.010478
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.010468,
+        "price_high": 0.010499,
+        "price_low": 0.010328,
+        "price_close": 0.010477
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.01043,
+        "price_high": 0.01045,
+        "price_low": 0.010294,
+        "price_close": 0.0104
+      }
+    ]
+  },
+  {
+    "BATUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.7913,
+        "price_high": 0.795,
+        "price_low": 0.7806,
+        "price_close": 0.7938
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.7869,
+        "price_high": 0.7893,
+        "price_low": 0.7807,
+        "price_close": 0.7878
+      }
+    ]
+  },
+  {
+    "XMRUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 262.6,
+        "price_high": 264.3,
+        "price_low": 259.7,
+        "price_close": 263.7
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 262.3,
+        "price_high": 262.9,
+        "price_low": 260.5,
+        "price_close": 262.4
+      }
+    ]
+  },
+  {
+    "CELRUSDT": [
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.05599,
+        "price_high": 0.05649,
+        "price_low": 0.05469,
+        "price_close": 0.05589
+      }
+    ]
+  },
+  {
+    "DASHUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 205.0,
+        "price_high": 205.6,
+        "price_low": 202.2,
+        "price_close": 205.2
+      }
+    ]
+  },
+  {
+    "NANOUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 5.739,
+        "price_high": 5.758,
+        "price_low": 5.658,
+        "price_close": 5.731
+      }
+    ]
+  },
+  {
+    "OMGUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 8.802,
+        "price_high": 8.878,
+        "price_low": 8.62,
+        "price_close": 8.834
+      }
+    ]
+  },
+  {
+    "THETAUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 6.965,
+        "price_high": 6.974,
+        "price_low": 6.825,
+        "price_close": 6.961
+      }
+    ]
+  },
+  {
+    "ENJUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 1.786,
+        "price_high": 1.795,
+        "price_low": 1.762,
+        "price_close": 1.785
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 1.784,
+        "price_high": 1.795,
+        "price_low": 1.761,
+        "price_close": 1.789
+      }
+    ]
+  },
+  {
+    "MATICUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 1.386,
+        "price_high": 1.395,
+        "price_low": 1.37,
+        "price_close": 1.392
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 1.382,
+        "price_high": 1.386,
+        "price_low": 1.362,
+        "price_close": 1.379
+      }
+    ]
+  },
+  {
+    "TFUELUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.3322,
+        "price_high": 0.3323,
+        "price_low": 0.3255,
+        "price_close": 0.3315
+      },
+      {
+        "time_open": "2021-09-09 11:00",
+        "time_close": "2021-09-09 11:59",
+        "price_open": 0.3308,
+        "price_high": 0.3344,
+        "price_low": 0.32,
+        "price_close": 0.329
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.3289,
+        "price_high": 0.3292,
+        "price_low": 0.3235,
+        "price_close": 0.328
+      }
+    ]
+  },
+  {
+    "FTMUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 1.8626,
+        "price_high": 1.911,
+        "price_low": 1.7815,
+        "price_close": 1.8743
+      }
+    ]
+  },
+  {
+    "GTOUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.04446,
+        "price_high": 0.04446,
+        "price_low": 0.04379,
+        "price_close": 0.04438
+      }
+    ]
+  },
+  {
+    "DOGEUSDT": [
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.2554,
+        "price_high": 0.2559,
+        "price_low": 0.2523,
+        "price_close": 0.2548
+      }
+    ]
+  },
+  {
+    "ANKRUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.10339,
+        "price_high": 0.10404,
+        "price_low": 0.10191,
+        "price_close": 0.10365
+      }
+    ]
+  },
+  {
+    "WINUSDT": [
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.0005414,
+        "price_high": 0.0005424,
+        "price_low": 0.0005335,
+        "price_close": 0.0005398
+      }
+    ]
+  },
+  {
+    "COCOSUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.8222,
+        "price_high": 0.8279,
+        "price_low": 0.8115,
+        "price_close": 0.8279
+      }
+    ]
+  },
+  {
+    "MTLUSDT": [
+      {
+        "time_open": "2021-09-09 07:00",
+        "time_close": "2021-09-09 07:59",
+        "price_open": 3.389,
+        "price_high": 3.41,
+        "price_low": 3.354,
+        "price_close": 3.405
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 3.407,
+        "price_high": 3.435,
+        "price_low": 3.349,
+        "price_close": 3.43
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 3.399,
+        "price_high": 3.404,
+        "price_low": 3.357,
+        "price_close": 3.388
+      }
+    ]
+  },
+  {
+    "TOMOUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 2.472,
+        "price_high": 2.49,
+        "price_low": 2.38,
+        "price_close": 2.448
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 2.442,
+        "price_high": 2.445,
+        "price_low": 2.38,
+        "price_close": 2.433
+      }
+    ]
+  },
+  {
+    "DENTUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 0.005217,
+        "price_high": 0.005268,
+        "price_low": 0.005128,
+        "price_close": 0.005241
+      }
+    ]
+  },
+  {
+    "MFTUSDT": [
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.012339,
+        "price_high": 0.01234,
+        "price_low": 0.012209,
+        "price_close": 0.012313
+      }
+    ]
+  },
+  {
+    "KEYUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.00875,
+        "price_high": 0.008815,
+        "price_low": 0.008626,
+        "price_close": 0.008798
+      }
+    ]
+  },
+  {
+    "WANUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 1.0008,
+        "price_high": 1.0022,
+        "price_low": 0.976,
+        "price_close": 0.9949
+      }
+    ]
+  },
+  {
+    "FUNUSDT": [
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.02409,
+        "price_high": 0.02415,
+        "price_low": 0.02368,
+        "price_close": 0.024
+      }
+    ]
+  },
+  {
+    "CVCUSDT": [
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.5922,
+        "price_high": 0.5954,
+        "price_low": 0.578,
+        "price_close": 0.5912
+      }
+    ]
+  },
+  {
+    "CHZUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.3463,
+        "price_high": 0.349,
+        "price_low": 0.3412,
+        "price_close": 0.3478
+      }
+    ]
+  },
+  {
+    "BANDUSDT": [
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 9.003,
+        "price_high": 9.026,
+        "price_low": 8.844,
+        "price_close": 8.976
+      }
+    ]
+  },
+  {
+    "BUSDUSDT": [
+      {
+        "time_open": "2021-09-09 06:00",
+        "time_close": "2021-09-09 06:59",
+        "price_open": 1.0,
+        "price_high": 1.0,
+        "price_low": 0.9999,
+        "price_close": 1.0
+      },
+      {
+        "time_open": "2021-09-09 07:00",
+        "time_close": "2021-09-09 07:59",
+        "price_open": 1.0,
+        "price_high": 1.0,
+        "price_low": 0.9999,
+        "price_close": 1.0
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 1.0,
+        "price_high": 1.0,
+        "price_low": 0.9999,
+        "price_close": 1.0
+      }
+    ]
+  },
+  {
+    "BEAMUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 0.6755,
+        "price_high": 0.6778,
+        "price_low": 0.6666,
+        "price_close": 0.6741
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.7018,
+        "price_high": 0.7032,
+        "price_low": 0.6812,
+        "price_close": 0.6973
+      }
+    ]
+  },
+  {
+    "RENUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 0.7058,
+        "price_high": 0.7122,
+        "price_low": 0.6936,
+        "price_close": 0.7051
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.7078,
+        "price_high": 0.7085,
+        "price_low": 0.6985,
+        "price_close": 0.7068
+      }
+    ]
+  },
+  {
+    "RVNUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.11981,
+        "price_high": 0.12025,
+        "price_low": 0.11817,
+        "price_close": 0.12
+      }
+    ]
+  },
+  {
+    "HBARUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.3535,
+        "price_high": 0.355,
+        "price_low": 0.3437,
+        "price_close": 0.3536
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.3307,
+        "price_high": 0.3315,
+        "price_low": 0.3231,
+        "price_close": 0.3283
+      }
+    ]
+  },
+  {
+    "NKNUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.4156,
+        "price_high": 0.4198,
+        "price_low": 0.4088,
+        "price_close": 0.4184
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.4092,
+        "price_high": 0.4104,
+        "price_low": 0.404,
+        "price_close": 0.4082
+      }
+    ]
+  },
+  {
+    "STXUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 1.332,
+        "price_high": 1.337,
+        "price_low": 1.319,
+        "price_close": 1.335
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 1.331,
+        "price_high": 1.339,
+        "price_low": 1.313,
+        "price_close": 1.337
+      }
+    ]
+  },
+  {
+    "KAVAUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 6.485,
+        "price_high": 6.554,
+        "price_low": 6.337,
+        "price_close": 6.472
+      }
+    ]
+  },
+  {
+    "ARPAUSDT": [
+      {
+        "time_open": "2021-09-09 06:00",
+        "time_close": "2021-09-09 06:59",
+        "price_open": 0.07529,
+        "price_high": 0.07529,
+        "price_low": 0.0719,
+        "price_close": 0.07451
+      }
+    ]
+  },
+  {
+    "BCHUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 668.2,
+        "price_high": 670.0,
+        "price_low": 660.0,
+        "price_close": 669.6
+      }
+    ]
+  },
+  {
+    "TROYUSDT": [
+      {
+        "time_open": "2021-09-09 05:00",
+        "time_close": "2021-09-09 05:59",
+        "price_open": 0.008464,
+        "price_high": 0.008521,
+        "price_low": 0.008328,
+        "price_close": 0.008466
+      }
+    ]
+  },
+  {
+    "VITEUSDT": [
+      {
+        "time_open": "2021-09-09 06:00",
+        "time_close": "2021-09-09 06:59",
+        "price_open": 0.08272,
+        "price_high": 0.08288,
+        "price_low": 0.08213,
+        "price_close": 0.0826
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.08394,
+        "price_high": 0.08473,
+        "price_low": 0.08256,
+        "price_close": 0.0845
+      }
+    ]
+  },
+  {
+    "EURUSDT": [
+      {
+        "time_open": "2021-09-09 06:00",
+        "time_close": "2021-09-09 06:59",
+        "price_open": 1.17,
+        "price_high": 1.17,
+        "price_low": 1.169,
+        "price_close": 1.17
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 1.168,
+        "price_high": 1.168,
+        "price_low": 1.167,
+        "price_close": 1.168
+      }
+    ]
+  },
+  {
+    "OGNUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 1.0184,
+        "price_high": 1.0263,
+        "price_low": 1.005,
+        "price_close": 1.0237
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 1.0231,
+        "price_high": 1.0233,
+        "price_low": 1.0044,
+        "price_close": 1.0208
+      }
+    ]
+  },
+  {
+    "TCTUSDT": [
+      {
+        "time_open": "2021-09-09 07:00",
+        "time_close": "2021-09-09 07:59",
+        "price_open": 0.0359,
+        "price_high": 0.036,
+        "price_low": 0.03539,
+        "price_close": 0.03597
+      },
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 0.036,
+        "price_high": 0.03617,
+        "price_low": 0.03545,
+        "price_close": 0.0359
+      },
+      {
+        "time_open": "2021-09-09 10:00",
+        "time_close": "2021-09-09 10:59",
+        "price_open": 0.03839,
+        "price_high": 0.03859,
+        "price_low": 0.03668,
+        "price_close": 0.03821
+      }
+    ]
+  },
+  {
+    "BTSUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 0.05021,
+        "price_high": 0.05043,
+        "price_low": 0.04949,
+        "price_close": 0.0502
+      }
+    ]
+  },
+  {
+    "LSKUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 3.644,
+        "price_high": 3.652,
+        "price_low": 3.58,
+        "price_close": 3.636
+      }
+    ]
+  },
+  {
+    "LTOUSDT": [
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.2936,
+        "price_high": 0.2948,
+        "price_low": 0.2866,
+        "price_close": 0.2933
+      }
+    ]
+  },
+  {
+    "MBLUSDT": [
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.010086,
+        "price_high": 0.01023,
+        "price_low": 0.009852,
+        "price_close": 0.010137
+      }
+    ]
+  },
+  {
+    "COTIUSDT": [
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.3063,
+        "price_high": 0.307,
+        "price_low": 0.2996,
+        "price_close": 0.3042
+      }
+    ]
+  },
+  {
+    "STPTUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 0.06025,
+        "price_high": 0.06025,
+        "price_low": 0.05945,
+        "price_close": 0.06002
+      }
+    ]
+  },
+  {
+    "WTCUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.8334,
+        "price_high": 0.8396,
+        "price_low": 0.8202,
+        "price_close": 0.8395
+      }
+    ]
+  },
+  {
+    "SOLUSDT": [
+      {
+        "time_open": "2021-09-09 07:00",
+        "time_close": "2021-09-09 07:59",
+        "price_open": 207.94,
+        "price_high": 211.13,
+        "price_low": 201.54,
+        "price_close": 210.24
+      }
+    ]
+  },
+  {
+    "CTSIUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.7033,
+        "price_high": 0.7033,
+        "price_low": 0.6907,
+        "price_close": 0.7004
+      }
+    ]
+  },
+  {
+    "HIVEUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.8156,
+        "price_high": 0.8183,
+        "price_low": 0.8044,
+        "price_close": 0.8141
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.8231,
+        "price_high": 0.8258,
+        "price_low": 0.8103,
+        "price_close": 0.8245
+      }
+    ]
+  },
+  {
+    "CHRUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.3385,
+        "price_high": 0.341,
+        "price_low": 0.3318,
+        "price_close": 0.3389
+      }
+    ]
+  },
+  {
+    "BTCUPUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 82.228,
+        "price_high": 83.0,
+        "price_low": 80.935,
+        "price_close": 82.79
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 82.238,
+        "price_high": 82.36,
+        "price_low": 81.1,
+        "price_close": 82.077
+      }
+    ]
+  },
+  {
+    "BTCDOWNUSDT": [
+      {
+        "time_open": "2021-09-09 10:00",
+        "time_close": "2021-09-09 10:59",
+        "price_open": 0.01975,
+        "price_high": 0.0199,
+        "price_low": 0.01948,
+        "price_close": 0.01978
+      },
+      {
+        "time_open": "2021-09-09 11:00",
+        "time_close": "2021-09-09 11:59",
+        "price_open": 0.0198,
+        "price_high": 0.0199,
+        "price_low": 0.01961,
+        "price_close": 0.01984
+      }
+    ]
+  },
+  {
+    "GXSUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.6628,
+        "price_high": 0.6628,
+        "price_low": 0.6505,
+        "price_close": 0.6621
+      }
+    ]
+  },
+  {
+    "ARDRUSDT": [
+      {
+        "time_open": "2021-09-09 06:00",
+        "time_close": "2021-09-09 06:59",
+        "price_open": 0.3578,
+        "price_high": 0.3609,
+        "price_low": 0.3525,
+        "price_close": 0.3577
+      },
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 0.3613,
+        "price_high": 0.3624,
+        "price_low": 0.3565,
+        "price_close": 0.3617
+      }
+    ]
+  },
+  {
+    "MDTUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.03982,
+        "price_high": 0.04005,
+        "price_low": 0.0392,
+        "price_close": 0.04002
+      }
+    ]
+  },
+  {
+    "KNCUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 1.81,
+        "price_high": 1.815,
+        "price_low": 1.782,
+        "price_close": 1.808
+      }
+    ]
+  },
+  {
+    "REPUSDT": [
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 26.46,
+        "price_high": 26.48,
+        "price_low": 26.21,
+        "price_close": 26.39
+      }
+    ]
+  },
+  {
+    "LRCUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.4545,
+        "price_high": 0.4545,
+        "price_low": 0.4437,
+        "price_close": 0.4532
+      }
+    ]
+  },
+  {
+    "PNTUSDT": [
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 1.1385,
+        "price_high": 1.1417,
+        "price_low": 1.1204,
+        "price_close": 1.1357
+      }
+    ]
+  },
+  {
+    "SNXUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 11.414,
+        "price_high": 11.464,
+        "price_low": 11.248,
+        "price_close": 11.431
+      }
+    ]
+  },
+  {
+    "ADAUPUSDT": [
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 207.0,
+        "price_high": 208.604,
+        "price_low": 200.433,
+        "price_close": 206.564
+      }
+    ]
+  },
+  {
+    "LINKUPUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 2.123,
+        "price_high": 2.1555,
+        "price_low": 2.0537,
+        "price_close": 2.1514
+      }
+    ]
+  },
+  {
+    "LINKDOWNUSDT": [
+      {
+        "time_open": "2021-09-09 10:00",
+        "time_close": "2021-09-09 10:59",
+        "price_open": 0.03214,
+        "price_high": 0.03229,
+        "price_low": 0.03047,
+        "price_close": 0.03182
+      }
+    ]
+  },
+  {
+    "DGBUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 0.06254,
+        "price_high": 0.06292,
+        "price_low": 0.06166,
+        "price_close": 0.06272
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.0627,
+        "price_high": 0.0633,
+        "price_low": 0.06165,
+        "price_close": 0.06317
+      }
+    ]
+  },
+  {
+    "SXPUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 2.802,
+        "price_high": 2.825,
+        "price_low": 2.758,
+        "price_close": 2.815
+      }
+    ]
+  },
+  {
+    "MKRUSDT": [
+      {
+        "time_open": "2021-09-09 07:00",
+        "time_close": "2021-09-09 07:59",
+        "price_open": 3046.0,
+        "price_high": 3065.0,
+        "price_low": 3013.0,
+        "price_close": 3054.0
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 3039.0,
+        "price_high": 3044.0,
+        "price_low": 3002.0,
+        "price_close": 3040.0
+      }
+    ]
+  },
+  {
+    "DCRUSDT": [
+      {
+        "time_open": "2021-09-09 06:00",
+        "time_close": "2021-09-09 06:59",
+        "price_open": 145.2,
+        "price_high": 146.3,
+        "price_low": 142.4,
+        "price_close": 145.9
+      }
+    ]
+  },
+  {
+    "STORJUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 1.483,
+        "price_high": 1.4925,
+        "price_low": 1.4575,
+        "price_close": 1.4873
+      }
+    ]
+  },
+  {
+    "BNBUPUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 373.3,
+        "price_high": 374.09,
+        "price_low": 367.79,
+        "price_close": 372.5
+      }
+    ]
+  },
+  {
+    "XTZDOWNUSDT": [
+      {
+        "time_open": "2021-09-09 11:00",
+        "time_close": "2021-09-09 11:59",
+        "price_open": 20.793,
+        "price_high": 21.087,
+        "price_low": 20.289,
+        "price_close": 20.886
+      }
+    ]
+  },
+  {
+    "MANAUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.8658,
+        "price_high": 0.8705,
+        "price_low": 0.8541,
+        "price_close": 0.868
+      }
+    ]
+  },
+  {
+    "AUDUSDT": [
+      {
+        "time_open": "2021-09-09 06:00",
+        "time_close": "2021-09-09 06:59",
+        "price_open": 0.7328,
+        "price_high": 0.7329,
+        "price_low": 0.7312,
+        "price_close": 0.7324
+      }
+    ]
+  },
+  {
+    "YFIUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 34721.37,
+        "price_high": 34910.0,
+        "price_low": 34253.15,
+        "price_close": 34909.22
+      }
+    ]
+  },
+  {
+    "BALUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 26.77,
+        "price_high": 26.95,
+        "price_low": 26.38,
+        "price_close": 26.9
+      }
+    ]
+  },
+  {
+    "BLZUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.2251,
+        "price_high": 0.2253,
+        "price_low": 0.2206,
+        "price_close": 0.2247
+      }
+    ]
+  },
+  {
+    "KMDUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 1.1428,
+        "price_high": 1.1511,
+        "price_low": 1.1265,
+        "price_close": 1.1471
+      }
+    ]
+  },
+  {
+    "CRVUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 2.025,
+        "price_high": 2.031,
+        "price_low": 2.002,
+        "price_close": 2.026
+      }
+    ]
+  },
+  {
+    "SANDUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.8306,
+        "price_high": 0.8337,
+        "price_low": 0.817,
+        "price_close": 0.8282
+      }
+    ]
+  },
+  {
+    "OCEANUSDT": [
+      {
+        "time_open": "2021-09-09 07:00",
+        "time_close": "2021-09-09 07:59",
+        "price_open": 0.7892,
+        "price_high": 0.7911,
+        "price_low": 0.7799,
+        "price_close": 0.7902
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.7849,
+        "price_high": 0.79,
+        "price_low": 0.773,
+        "price_close": 0.7858
+      }
+    ]
+  },
+  {
+    "NMRUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 42.71,
+        "price_high": 42.79,
+        "price_low": 41.95,
+        "price_close": 42.59
+      }
+    ]
+  },
+  {
+    "DOTUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 28.84,
+        "price_high": 29.02,
+        "price_low": 28.35,
+        "price_close": 28.95
+      }
+    ]
+  },
+  {
+    "RSRUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.04025,
+        "price_high": 0.04055,
+        "price_low": 0.03961,
+        "price_close": 0.04046
+      }
+    ]
+  },
+  {
+    "PAXGUSDT": [
+      {
+        "time_open": "2021-09-09 06:00",
+        "time_close": "2021-09-09 06:59",
+        "price_open": 1789.0,
+        "price_high": 1790.0,
+        "price_low": 1787.0,
+        "price_close": 1790.0
+      }
+    ]
+  },
+  {
+    "WNXMUSDT": [
+      {
+        "time_open": "2021-09-09 05:00",
+        "time_close": "2021-09-09 05:59",
+        "price_open": 74.97,
+        "price_high": 75.05,
+        "price_low": 74.14,
+        "price_close": 74.99
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 75.33,
+        "price_high": 75.36,
+        "price_low": 74.72,
+        "price_close": 75.36
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 75.2,
+        "price_high": 75.2,
+        "price_low": 73.99,
+        "price_close": 75.0
+      }
+    ]
+  },
+  {
+    "TRBUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 54.7,
+        "price_high": 54.7,
+        "price_low": 53.77,
+        "price_close": 54.54
+      }
+    ]
+  },
+  {
+    "BZRXUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.3113,
+        "price_high": 0.3143,
+        "price_low": 0.3058,
+        "price_close": 0.3129
+      }
+    ]
+  },
+  {
+    "YFIIUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 4794.0,
+        "price_high": 4827.0,
+        "price_low": 4734.0,
+        "price_close": 4798.0
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 4799.0,
+        "price_high": 4810.0,
+        "price_low": 4725.0,
+        "price_close": 4807.0
+      }
+    ]
+  },
+  {
+    "KSMUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 358.8,
+        "price_high": 360.0,
+        "price_low": 347.9,
+        "price_close": 357.8
+      }
+    ]
+  },
+  {
+    "RUNEUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 9.25,
+        "price_high": 9.276,
+        "price_low": 9.041,
+        "price_close": 9.199
+      }
+    ]
+  },
+  {
+    "FIOUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.2159,
+        "price_high": 0.2168,
+        "price_low": 0.2133,
+        "price_close": 0.2157
+      }
+    ]
+  },
+  {
+    "UMAUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 11.383,
+        "price_high": 11.433,
+        "price_low": 11.185,
+        "price_close": 11.367
+      }
+    ]
+  },
+  {
+    "EOSDOWNUSDT": [
+      {
+        "time_open": "2021-09-09 10:00",
+        "time_close": "2021-09-09 10:59",
+        "price_open": 0.0004456,
+        "price_high": 0.0004524,
+        "price_low": 0.0004286,
+        "price_close": 0.0004465
+      }
+    ]
+  },
+  {
+    "TRXUPUSDT": [
+      {
+        "time_open": "2021-09-09 05:00",
+        "time_close": "2021-09-09 05:59",
+        "price_open": 0.3451,
+        "price_high": 0.35027,
+        "price_low": 0.33668,
+        "price_close": 0.34816
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.35993,
+        "price_high": 0.36091,
+        "price_low": 0.35048,
+        "price_close": 0.35967
+      }
+    ]
+  },
+  {
+    "XRPUPUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 6.04,
+        "price_high": 6.09,
+        "price_low": 5.9204,
+        "price_close": 6.0326
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 6.023,
+        "price_high": 6.0862,
+        "price_low": 5.8742,
+        "price_close": 6.0564
+      }
+    ]
+  },
+  {
+    "DOTUPUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 8.75,
+        "price_high": 8.842,
+        "price_low": 8.451,
+        "price_close": 8.803
+      }
+    ]
+  },
+  {
+    "DOTDOWNUSDT": [
+      {
+        "time_open": "2021-09-09 10:00",
+        "time_close": "2021-09-09 10:59",
+        "price_open": 0.0008111,
+        "price_high": 0.0008196,
+        "price_low": 0.00075,
+        "price_close": 0.0007944
+      }
+    ]
+  },
+  {
+    "WINGUSDT": [
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 24.02,
+        "price_high": 24.09,
+        "price_low": 23.67,
+        "price_close": 23.97
+      }
+    ]
+  },
+  {
+    "LTCUPUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 4.842,
+        "price_high": 4.896,
+        "price_low": 4.723,
+        "price_close": 4.896
+      }
+    ]
+  },
+  {
+    "NBSUSDT": [
+      {
+        "time_open": "2021-09-09 05:00",
+        "time_close": "2021-09-09 05:59",
+        "price_open": 0.0134,
+        "price_high": 0.01343,
+        "price_low": 0.01311,
+        "price_close": 0.01339
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.01376,
+        "price_high": 0.0138,
+        "price_low": 0.01351,
+        "price_close": 0.0138
+      }
+    ]
+  },
+  {
+    "OXTUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 0.3787,
+        "price_high": 0.3798,
+        "price_low": 0.373,
+        "price_close": 0.3777
+      }
+    ]
+  },
+  {
+    "SUNUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 0.03173,
+        "price_high": 0.03185,
+        "price_low": 0.0314,
+        "price_close": 0.03179
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.03176,
+        "price_high": 0.03176,
+        "price_low": 0.03134,
+        "price_close": 0.03167
+      }
+    ]
+  },
+  {
+    "HNTUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 21.99,
+        "price_high": 21.99,
+        "price_low": 21.56,
+        "price_close": 21.85
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 21.55,
+        "price_high": 21.67,
+        "price_low": 21.26,
+        "price_close": 21.57
+      }
+    ]
+  },
+  {
+    "UNIDOWNUSDT": [
+      {
+        "time_open": "2021-09-09 11:00",
+        "time_close": "2021-09-09 11:59",
+        "price_open": 4.629,
+        "price_high": 4.708,
+        "price_low": 4.5,
+        "price_close": 4.662
+      }
+    ]
+  },
+  {
+    "ORNUSDT": [
+      {
+        "time_open": "2021-09-09 11:00",
+        "time_close": "2021-09-09 11:59",
+        "price_open": 8.211,
+        "price_high": 8.235,
+        "price_low": 8.098,
+        "price_close": 8.193
+      }
+    ]
+  },
+  {
+    "ALPHAUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 1.1565,
+        "price_high": 1.1626,
+        "price_low": 1.141,
+        "price_close": 1.1577
+      }
+    ]
+  },
+  {
+    "AAVEUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 339.1,
+        "price_high": 340.0,
+        "price_low": 333.6,
+        "price_close": 337.6
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 337.6,
+        "price_high": 337.6,
+        "price_low": 331.6,
+        "price_close": 336.3
+      }
+    ]
+  },
+  {
+    "NEARUSDT": [
+      {
+        "time_open": "2021-09-09 07:00",
+        "time_close": "2021-09-09 07:59",
+        "price_open": 10.907,
+        "price_high": 10.907,
+        "price_low": 10.61,
+        "price_close": 10.882
+      },
+      {
+        "time_open": "2021-09-09 11:00",
+        "time_close": "2021-09-09 11:59",
+        "price_open": 11.228,
+        "price_high": 11.36,
+        "price_low": 10.993,
+        "price_close": 11.329
+      }
+    ]
+  },
+  {
+    "SXPUPUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 0.44847,
+        "price_high": 0.4515,
+        "price_low": 0.43,
+        "price_close": 0.444
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.4428,
+        "price_high": 0.44937,
+        "price_low": 0.42947,
+        "price_close": 0.44841
+      }
+    ]
+  },
+  {
+    "FILUSDT": [
+      {
+        "time_open": "2021-09-09 07:00",
+        "time_close": "2021-09-09 07:59",
+        "price_open": 92.86,
+        "price_high": 93.7,
+        "price_low": 91.43,
+        "price_close": 93.04
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 91.21,
+        "price_high": 91.21,
+        "price_low": 89.12,
+        "price_close": 90.64
+      }
+    ]
+  },
+  {
+    "FILUPUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 3.5464,
+        "price_high": 3.5464,
+        "price_low": 3.3982,
+        "price_close": 3.516
+      }
+    ]
+  },
+  {
+    "FILDOWNUSDT": [
+      {
+        "time_open": "2021-09-09 11:00",
+        "time_close": "2021-09-09 11:59",
+        "price_open": 0.0004713,
+        "price_high": 0.0004754,
+        "price_low": 0.0004596,
+        "price_close": 0.0004731
+      }
+    ]
+  },
+  {
+    "YFIDOWNUSDT": [
+      {
+        "time_open": "2021-09-09 11:00",
+        "time_close": "2021-09-09 11:59",
+        "price_open": 1.0769,
+        "price_high": 1.0801,
+        "price_low": 1.0675,
+        "price_close": 1.0766
+      }
+    ]
+  },
+  {
+    "BCHUPUSDT": [
+      {
+        "time_open": "2021-09-09 07:00",
+        "time_close": "2021-09-09 07:59",
+        "price_open": 0.4653,
+        "price_high": 0.4676,
+        "price_low": 0.4605,
+        "price_close": 0.4659
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.4647,
+        "price_high": 0.4647,
+        "price_low": 0.4543,
+        "price_close": 0.4645
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.4655,
+        "price_high": 0.4655,
+        "price_low": 0.4561,
+        "price_close": 0.4626
+      }
+    ]
+  },
+  {
+    "BCHDOWNUSDT": [
+      {
+        "time_open": "2021-09-09 11:00",
+        "time_close": "2021-09-09 11:59",
+        "price_open": 0.2236,
+        "price_high": 0.2255,
+        "price_low": 0.2201,
+        "price_close": 0.225
+      }
+    ]
+  },
+  {
+    "AKROUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.02912,
+        "price_high": 0.02935,
+        "price_low": 0.02871,
+        "price_close": 0.02925
+      }
+    ]
+  },
+  {
+    "AXSUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 70.54,
+        "price_high": 70.73,
+        "price_low": 69.13,
+        "price_close": 70.51
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 70.64,
+        "price_high": 70.87,
+        "price_low": 69.68,
+        "price_close": 70.42
+      }
+    ]
+  },
+  {
+    "HARDUSDT": [
+      {
+        "time_open": "2021-09-09 05:00",
+        "time_close": "2021-09-09 05:59",
+        "price_open": 1.0356,
+        "price_high": 1.0386,
+        "price_low": 1.0198,
+        "price_close": 1.0348
+      },
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 1.0742,
+        "price_high": 1.0754,
+        "price_low": 1.0558,
+        "price_close": 1.071
+      }
+    ]
+  },
+  {
+    "UNFIUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 10.328,
+        "price_high": 10.395,
+        "price_low": 10.189,
+        "price_close": 10.364
+      }
+    ]
+  },
+  {
+    "AVAUSDT": [
+      {
+        "time_open": "2021-09-09 05:00",
+        "time_close": "2021-09-09 05:59",
+        "price_open": 3.876,
+        "price_high": 3.897,
+        "price_low": 3.816,
+        "price_close": 3.879
+      }
+    ]
+  },
+  {
+    "XEMUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 0.1908,
+        "price_high": 0.1915,
+        "price_low": 0.1881,
+        "price_close": 0.1906
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.1904,
+        "price_high": 0.1915,
+        "price_low": 0.1873,
+        "price_close": 0.191
+      }
+    ]
+  },
+  {
+    "AAVEUPUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 1.3164,
+        "price_high": 1.3195,
+        "price_low": 1.2631,
+        "price_close": 1.3
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 1.2948,
+        "price_high": 1.2948,
+        "price_low": 1.24,
+        "price_close": 1.2741
+      }
+    ]
+  },
+  {
+    "SUSDUSDT": [
+      {
+        "time_open": "2021-09-09 07:00",
+        "time_close": "2021-09-09 07:59",
+        "price_open": 0.999,
+        "price_high": 1.0,
+        "price_low": 0.994,
+        "price_close": 1.0
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 1.0,
+        "price_high": 1.0,
+        "price_low": 0.999,
+        "price_close": 1.0
+      },
+      {
+        "time_open": "2021-09-09 10:00",
+        "time_close": "2021-09-09 10:59",
+        "price_open": 1.0,
+        "price_high": 1.0,
+        "price_low": 0.998,
+        "price_close": 1.0
+      }
+    ]
+  },
+  {
+    "SUSHIDOWNUSDT": [
+      {
+        "time_open": "2021-09-09 10:00",
+        "time_close": "2021-09-09 10:59",
+        "price_open": 0.0005995,
+        "price_high": 0.0006083,
+        "price_low": 0.0005731,
+        "price_close": 0.0006022
+      }
+    ]
+  },
+  {
+    "XLMUPUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.09561,
+        "price_high": 0.09676,
+        "price_low": 0.093,
+        "price_close": 0.09676
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.09394,
+        "price_high": 0.09413,
+        "price_low": 0.09242,
+        "price_close": 0.09371
+      }
+    ]
+  },
+  {
+    "XLMDOWNUSDT": [
+      {
+        "time_open": "2021-09-09 10:00",
+        "time_close": "2021-09-09 10:59",
+        "price_open": 8.3,
+        "price_high": 8.377,
+        "price_low": 8.167,
+        "price_close": 8.351
+      }
+    ]
+  },
+  {
+    "JUVUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 10.56,
+        "price_high": 10.63,
+        "price_low": 10.44,
+        "price_close": 10.6
+      }
+    ]
+  },
+  {
+    "1INCHUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 3.032,
+        "price_high": 3.04,
+        "price_low": 2.968,
+        "price_close": 3.03
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 3.106,
+        "price_high": 3.126,
+        "price_low": 3.072,
+        "price_close": 3.116
+      }
+    ]
+  },
+  {
+    "REEFUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.02259,
+        "price_high": 0.0227,
+        "price_low": 0.02221,
+        "price_close": 0.0226
+      }
+    ]
+  },
+  {
+    "OGUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 6.888,
+        "price_high": 6.897,
+        "price_low": 6.779,
+        "price_close": 6.863
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 7.077,
+        "price_high": 7.133,
+        "price_low": 6.872,
+        "price_close": 7.064
+      }
+    ]
+  },
+  {
+    "ASRUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 7.206,
+        "price_high": 7.207,
+        "price_low": 7.1,
+        "price_close": 7.207
+      }
+    ]
+  },
+  {
+    "RIFUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.2368,
+        "price_high": 0.237,
+        "price_low": 0.2341,
+        "price_close": 0.237
+      }
+    ]
+  },
+  {
+    "BTCSTUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 19.66,
+        "price_high": 19.77,
+        "price_low": 19.45,
+        "price_close": 19.72
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 19.88,
+        "price_high": 19.91,
+        "price_low": 19.44,
+        "price_close": 19.76
+      }
+    ]
+  },
+  {
+    "TRUUSDT": [
+      {
+        "time_open": "2021-09-09 07:00",
+        "time_close": "2021-09-09 07:59",
+        "price_open": 0.4935,
+        "price_high": 0.4964,
+        "price_low": 0.4867,
+        "price_close": 0.4946
+      },
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 0.4946,
+        "price_high": 0.4963,
+        "price_low": 0.4853,
+        "price_close": 0.4925
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.4918,
+        "price_high": 0.4918,
+        "price_low": 0.4836,
+        "price_close": 0.4896
+      }
+    ]
+  },
+  {
+    "TWTUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 1.3463,
+        "price_high": 1.3472,
+        "price_low": 1.3246,
+        "price_close": 1.3404
+      }
+    ]
+  },
+  {
+    "FIROUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 7.81,
+        "price_high": 7.81,
+        "price_low": 7.7,
+        "price_close": 7.781
+      }
+    ]
+  },
+  {
+    "LITUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 4.149,
+        "price_high": 4.162,
+        "price_low": 4.094,
+        "price_close": 4.148
+      }
+    ]
+  },
+  {
+    "SFPUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 1.1916,
+        "price_high": 1.1979,
+        "price_low": 1.1697,
+        "price_close": 1.1942
+      }
+    ]
+  },
+  {
+    "ACMUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 8.079,
+        "price_high": 8.108,
+        "price_low": 7.987,
+        "price_close": 8.092
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 8.06,
+        "price_high": 8.093,
+        "price_low": 8.003,
+        "price_close": 8.08
+      }
+    ]
+  },
+  {
+    "BADGERUSDT": [
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 19.86,
+        "price_high": 19.87,
+        "price_low": 19.57,
+        "price_close": 19.76
+      }
+    ]
+  },
+  {
+    "FISUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 1.7723,
+        "price_high": 1.7754,
+        "price_low": 1.7415,
+        "price_close": 1.7658
+      }
+    ]
+  },
+  {
+    "OMUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.2139,
+        "price_high": 0.2154,
+        "price_low": 0.2113,
+        "price_close": 0.2148
+      }
+    ]
+  },
+  {
+    "PERPUSDT": [
+      {
+        "time_open": "2021-09-09 05:00",
+        "time_close": "2021-09-09 05:59",
+        "price_open": 18.51,
+        "price_high": 18.76,
+        "price_low": 18.09,
+        "price_close": 18.72
+      }
+    ]
+  },
+  {
+    "RAMPUSDT": [
+      {
+        "time_open": "2021-09-09 05:00",
+        "time_close": "2021-09-09 05:59",
+        "price_open": 0.4483,
+        "price_high": 0.4528,
+        "price_low": 0.4363,
+        "price_close": 0.4475
+      },
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 0.4643,
+        "price_high": 0.4699,
+        "price_low": 0.4538,
+        "price_close": 0.4673
+      },
+      {
+        "time_open": "2021-09-09 10:00",
+        "time_close": "2021-09-09 10:59",
+        "price_open": 0.4606,
+        "price_high": 0.4628,
+        "price_low": 0.4569,
+        "price_close": 0.4606
+      }
+    ]
+  },
+  {
+    "SUPERUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.7856,
+        "price_high": 0.7944,
+        "price_low": 0.7666,
+        "price_close": 0.7915
+      }
+    ]
+  },
+  {
+    "CFXUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 0.2733,
+        "price_high": 0.2739,
+        "price_low": 0.2669,
+        "price_close": 0.2714
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.2712,
+        "price_high": 0.2735,
+        "price_low": 0.2672,
+        "price_close": 0.2713
+      }
+    ]
+  },
+  {
+    "TKOUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 2.153,
+        "price_high": 2.171,
+        "price_low": 2.118,
+        "price_close": 2.156
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 2.153,
+        "price_high": 2.157,
+        "price_low": 2.12,
+        "price_close": 2.146
+      }
+    ]
+  },
+  {
+    "TLMUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.2343,
+        "price_high": 0.2361,
+        "price_low": 0.2305,
+        "price_close": 0.2346
+      }
+    ]
+  },
+  {
+    "1INCHUPUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 0.049716,
+        "price_high": 0.05018,
+        "price_low": 0.047458,
+        "price_close": 0.049786
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.052504,
+        "price_high": 0.053101,
+        "price_low": 0.051159,
+        "price_close": 0.052479
+      }
+    ]
+  },
+  {
+    "1INCHDOWNUSDT": [
+      {
+        "time_open": "2021-09-09 10:00",
+        "time_close": "2021-09-09 10:59",
+        "price_open": 0.07157,
+        "price_high": 0.07157,
+        "price_low": 0.06378,
+        "price_close": 0.069
+      }
+    ]
+  },
+  {
+    "BTGUSDT": [
+      {
+        "time_open": "2021-09-09 07:00",
+        "time_close": "2021-09-09 07:59",
+        "price_open": 68.42,
+        "price_high": 68.77,
+        "price_low": 67.79,
+        "price_close": 68.72
+      }
+    ]
+  },
+  {
+    "MIRUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 3.53,
+        "price_high": 3.541,
+        "price_low": 3.489,
+        "price_close": 3.531
+      }
+    ]
+  },
+  {
+    "BARUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 17.78,
+        "price_high": 17.85,
+        "price_low": 17.52,
+        "price_close": 17.75
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 17.77,
+        "price_high": 17.86,
+        "price_low": 17.53,
+        "price_close": 17.84
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 17.78,
+        "price_high": 17.89,
+        "price_low": 17.44,
+        "price_close": 17.86
+      }
+    ]
+  },
+  {
+    "FORTHUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 15.23,
+        "price_high": 15.3,
+        "price_low": 15.05,
+        "price_close": 15.27
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 15.29,
+        "price_high": 15.4,
+        "price_low": 15.11,
+        "price_close": 15.32
+      }
+    ]
+  },
+  {
+    "BURGERUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 4.368,
+        "price_high": 4.39,
+        "price_low": 4.31,
+        "price_close": 4.363
+      }
+    ]
+  },
+  {
+    "ICPUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 62.82,
+        "price_high": 63.33,
+        "price_low": 61.63,
+        "price_close": 62.72
+      }
+    ]
+  },
+  {
+    "ARUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 61.63,
+        "price_high": 62.72,
+        "price_low": 59.45,
+        "price_close": 62.28
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 62.2,
+        "price_high": 63.22,
+        "price_low": 60.43,
+        "price_close": 62.56
+      }
+    ]
+  },
+  {
+    "MDXUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 1.731,
+        "price_high": 1.734,
+        "price_low": 1.694,
+        "price_close": 1.722
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 1.721,
+        "price_high": 1.728,
+        "price_low": 1.705,
+        "price_close": 1.724
+      }
+    ]
+  },
+  {
+    "MASKUSDT": [
+      {
+        "time_open": "2021-09-09 07:00",
+        "time_close": "2021-09-09 07:59",
+        "price_open": 9.196,
+        "price_high": 9.253,
+        "price_low": 9.089,
+        "price_close": 9.238
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 9.343,
+        "price_high": 9.35,
+        "price_low": 9.16,
+        "price_close": 9.311
+      }
+    ]
+  },
+  {
+    "NUUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.3487,
+        "price_high": 0.3501,
+        "price_low": 0.339,
+        "price_close": 0.3491
+      }
+    ]
+  },
+  {
+    "ATAUSDT": [
+      {
+        "time_open": "2021-09-09 08:00",
+        "time_close": "2021-09-09 08:59",
+        "price_open": 1.1517,
+        "price_high": 1.1575,
+        "price_low": 1.1212,
+        "price_close": 1.1493
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 1.149,
+        "price_high": 1.1518,
+        "price_low": 1.1201,
+        "price_close": 1.1412
+      }
+    ]
+  },
+  {
+    "GTCUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 10.333,
+        "price_high": 10.398,
+        "price_low": 10.161,
+        "price_close": 10.38
+      }
+    ]
+  },
+  {
+    "KEEPUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.4902,
+        "price_high": 0.4907,
+        "price_low": 0.4792,
+        "price_close": 0.4883
+      }
+    ]
+  },
+  {
+    "KLAYUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 1.406,
+        "price_high": 1.408,
+        "price_low": 1.396,
+        "price_close": 1.406
+      }
+    ]
+  },
+  {
+    "PHAUSDT": [
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.8689,
+        "price_high": 0.8712,
+        "price_low": 0.856,
+        "price_close": 0.869
+      }
+    ]
+  },
+  {
+    "DEXEUSDT": [
+      {
+        "time_open": "2021-09-09 10:00",
+        "time_close": "2021-09-09 10:59",
+        "price_open": 12.57,
+        "price_high": 12.58,
+        "price_low": 12.04,
+        "price_close": 12.4
+      }
+    ]
+  },
+  {
+    "FARMUSDT": [
+      {
+        "time_open": "2021-09-09 05:00",
+        "time_close": "2021-09-09 05:59",
+        "price_open": 204.7,
+        "price_high": 206.8,
+        "price_low": 201.3,
+        "price_close": 206.6
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 206.5,
+        "price_high": 206.5,
+        "price_low": 202.3,
+        "price_close": 205.2
+      }
+    ]
+  },
+  {
+    "QUICKUSDT": [
+      {
+        "time_open": "2021-09-09 05:00",
+        "time_close": "2021-09-09 05:59",
+        "price_open": 477.7,
+        "price_high": 480.1,
+        "price_low": 473.8,
+        "price_close": 477.8
+      }
+    ]
+  },
+  {
+    "FORUSDT": [
+      {
+        "time_open": "2021-09-09 07:00",
+        "time_close": "2021-09-09 07:59",
+        "price_open": 0.06435,
+        "price_high": 0.0648,
+        "price_low": 0.06283,
+        "price_close": 0.06439
+      },
+      {
+        "time_open": "2021-09-09 10:00",
+        "time_close": "2021-09-09 10:59",
+        "price_open": 0.06451,
+        "price_high": 0.065,
+        "price_low": 0.06371,
+        "price_close": 0.0647
+      },
+      {
+        "time_open": "2021-09-09 11:00",
+        "time_close": "2021-09-09 11:59",
+        "price_open": 0.06474,
+        "price_high": 0.065,
+        "price_low": 0.06371,
+        "price_close": 0.06457
+      }
+    ]
+  },
+  {
+    "GHSTUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 1.755,
+        "price_high": 1.758,
+        "price_low": 1.729,
+        "price_close": 1.758
+      }
+    ]
+  },
+  {
+    "WAXPUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.2825,
+        "price_high": 0.2836,
+        "price_low": 0.2807,
+        "price_close": 0.2836
+      }
+    ]
+  },
+  {
+    "TRIBEUSDT": [
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.6549,
+        "price_high": 0.655,
+        "price_low": 0.6502,
+        "price_close": 0.6535
+      }
+    ]
+  },
+  {
+    "GNOUSDT": [
+      {
+        "time_open": "2021-09-09 05:00",
+        "time_close": "2021-09-09 05:59",
+        "price_open": 267.2,
+        "price_high": 267.6,
+        "price_low": 264.6,
+        "price_close": 266.6
+      }
+    ]
+  },
+  {
+    "ELFUSDT": [
+      {
+        "time_open": "2021-09-09 05:00",
+        "time_close": "2021-09-09 05:59",
+        "price_open": 0.7857,
+        "price_high": 0.7899,
+        "price_low": 0.775,
+        "price_close": 0.7856
+      },
+      {
+        "time_open": "2021-09-09 09:00",
+        "time_close": "2021-09-09 09:59",
+        "price_open": 0.8371,
+        "price_high": 0.8371,
+        "price_low": 0.8179,
+        "price_close": 0.8342
+      },
+      {
+        "time_open": "2021-09-09 12:00",
+        "time_close": "2021-09-09 12:59",
+        "price_open": 0.8861,
+        "price_high": 0.8901,
+        "price_low": 0.8615,
+        "price_close": 0.8852
+      }
+    ]
+  }
+]
